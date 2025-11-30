@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+logs/
+*.log
+
+# AWS
+.aws/
+
+# API Keys
+*_api_key*
+*_secret*
+credentials.json
+
+# Models
+models/*.pth
+models/*.bin
+
+# OS
+.DS_Store
+Thumbs.db
